@@ -12,6 +12,7 @@
         <module>strategy</module>
         <module>observer</module>
         <module>template</module>
+        <module>composite</module>
     </modules>
 
     <properties>
